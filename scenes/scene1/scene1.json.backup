@@ -1,22 +1,22 @@
 {
   "sdfVersion": 9,
   "name": "scene1",
-  "width": 400,
-  "height": 400,
+  "width": 4000,
+  "height": 2500,
   "yClipMin": 0,
   "yClipMax": 256,
   "exposure": 1.0,
   "postprocess": "GAMMA",
   "outputMode": "PNG",
-  "renderTime": 48718,
-  "spp": 128,
+  "renderTime": 8276,
+  "spp": 0,
   "sppTarget": 128,
   "rayDepth": 5,
-  "pathTrace": true,
+  "pathTrace": false,
   "dumpFrequency": 500,
   "saveSnapshots": false,
   "emittersEnabled": true,
-  "emitterIntensity": 8.0,
+  "emitterIntensity": 13.0,
   "sunEnabled": true,
   "stillWater": false,
   "waterOpacity": 0.42,
@@ -24,14 +24,14 @@
   "useCustomWaterColor": false,
   "fogColor": {
     "red": 0.0,
-    "green": 0.1324627548456192,
-    "blue": 0.48046875
+    "green": 0.16720545291900635,
+    "blue": 0.3828125
   },
   "fastFog": true,
   "biomeColorsEnabled": true,
   "transparentSky": false,
-  "fogDensity": 0.01,
-  "skyFogDensity": 0.1,
+  "fogDensity": 0.005,
+  "skyFogDensity": 0.0,
   "waterHeight": 0,
   "renderActors": true,
   "world": {
@@ -61,12 +61,12 @@
   },
   "sun": {
     "altitude": 0.7568345055586883,
-    "azimuth": 5.81953769817878,
-    "intensity": 1.25,
+    "azimuth": 5.130613309963919,
+    "intensity": 1.0,
     "color": {
-      "red": 0.3391571044921875,
-      "green": 0.5919634699821472,
-      "blue": 0.93359375
+      "red": 0.1484375,
+      "green": 0.5105962753295898,
+      "blue": 1.0
     },
     "drawTexture": true
   },
