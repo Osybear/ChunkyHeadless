@@ -1,0 +1,15 @@
+{
+  "updateSite": "https://chunkyupdate.lemaik.de",
+  "javaDir": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\Java\\jre1.8.0_271",
+  "memoryLimit": 5482,
+  "showConsole": false,
+  "verboseLogging": false,
+  "verboseLauncher": false,
+  "closeConsoleOnExit": true,
+  "javaOptions": "-Dprism.order=sw",
+  "chunkyOptions": "",
+  "version": "latest",
+  "showLauncher": true,
+  "showAdvancedSettings": true,
+  "downloadSnapshots": false
+}

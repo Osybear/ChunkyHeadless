@@ -1,0 +1,32 @@
+{
+  "accounts" : {
+    "bbe5124a988e4319bc985d90a5ec7b16" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhNmE5MTU0MjYyZjcxNmYwMmMxMDRkNzUzYmI2N2UwZSIsInlnZ3QiOiJjZWU2ZGE3NTZjZjA0MzYxODU2N2ZkN2IyZGYzMDYxNCIsInNwciI6Ijc1ZTA1NmFhMGMwNjRiOWE5MDljNzI3ZTE4ZDgxNDE1IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDk3MTE4NzUsImlhdCI6MTYwOTUzOTA3NX0.-pO9MAklXN4_WuqLV3moX-yKPoxlnubKeLJd-9QGAUI",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "bbe5124a988e4319bc985d90a5ec7b16",
+      "minecraftProfile" : {
+        "id" : "75e056aa0c064b9a909c727e18d81415",
+        "name" : "Osybear"
+      },
+      "persistent" : true,
+      "remoteId" : "a6a9154262f716f02c104d753bb67e0e",
+      "type" : "Mojang",
+      "userProperites" : 
+      [
+        {
+          "name" : "preferredLanguage",
+          "value" : "en-us"
+        },
+        {
+          "name" : "registrationCountry",
+          "value" : "US"
+        }
+      ],
+      "username" : "osybear@gmail.com"
+    }
+  },
+  "activeAccountLocalId" : "bbe5124a988e4319bc985d90a5ec7b16",
+  "mojangClientToken" : "f0b8bd1d78d14d32ba0d20c90492873f"
+}

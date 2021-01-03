@@ -1,0 +1,177 @@
+[14:57:58] [Render thread/INFO]: Setting user: Osybear
+[14:57:58] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[14:58:00] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[14:58:01] [Render thread/INFO]: Reloading ResourceManager: Default
+[14:58:05] [Render thread/INFO]: OpenAL initialized.
+[14:58:05] [Render thread/INFO]: Sound engine started
+[14:58:05] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:58:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:58:06] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:58:06] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:58:06] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:58:14] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:58:14] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:58:14] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:58:14] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:58:14] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:58:14] [Render thread/INFO]: Reloading ResourceManager: Default
+[14:58:14] [Render thread/INFO]: Loaded 7 recipes
+[14:58:14] [Render thread/INFO]: Loaded 927 advancements
+[14:58:15] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:58:15] [Server thread/INFO]: Starting integrated minecraft server version 1.16.4
+[14:58:15] [Server thread/INFO]: Generating keypair
+[14:58:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:58:15] [Render thread/INFO]: Preparing spawn area: 0%
+[14:58:15] [Render thread/INFO]: Preparing spawn area: 0%
+[14:58:15] [Render thread/INFO]: Time elapsed: 597 ms
+[14:58:16] [Server thread/INFO]: Changing view distance to 11, from 10
+[14:58:16] [Server thread/INFO]: Osybear[local:E:2c62be60] logged in with entity id 1 at (1001.645570982873, 55.86435809528476, 1563.082791635504)
+[14:58:16] [Server thread/INFO]: Osybear joined the game
+[14:58:16] [Netty Local Client IO #0/INFO]: Applying server pack C:\Users\Osybear\AppData\Roaming\.minecraft\saves\The Uncensored Library\resources.zip
+[14:58:17] [Server thread/INFO]: Saving and pausing game...
+[14:58:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[14:58:17] [Render thread/INFO]: Reloading ResourceManager: Default, resources.zip
+[14:58:17] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: .DS_Store in C:\Users\Osybear\AppData\Roaming\.minecraft\saves\The Uncensored Library\resources.zip
+[14:58:17] [Render thread/INFO]: Loaded 8 advancements
+[14:58:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[14:58:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[14:58:17] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:cube' referenced from: minecraft:lectern#facing=north,has_book=true,powered=true: java.io.FileNotFoundException: minecraft:models/cube.json
+[14:58:17] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:block/hanging_lantern' referenced from: minecraft:lantern#hanging=true,waterlogged=true: java.io.FileNotFoundException: minecraft:models/block/hanging_lantern.json
+[14:58:17] [Worker-Main-9/WARN]: Unable to resolve texture reference: #missing in minecraft:block/end_rod
+[14:58:17] [Worker-Main-9/WARN]: Unable to resolve texture reference: #missing in minecraft:item/end_rod
+[14:58:18] [Worker-Main-9/WARN]: Texture minecraft:entity/conduit/open_eye with size 8x8 limits mip level from 4 to 3
+[14:58:18] [Worker-Main-9/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[14:58:18] [Render thread/INFO]: OpenAL initialized.
+[14:58:18] [Render thread/INFO]: Sound engine started
+[14:58:18] [Render thread/INFO]: Created: 512x2048x3 minecraft:textures/atlas/blocks.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[14:58:18] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:00:53] [Server thread/INFO]: Saving and pausing game...
+[15:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:00:53] [Server thread/INFO]: Osybear lost connection: Disconnected
+[15:00:53] [Server thread/INFO]: Osybear left the game
+[15:00:53] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:00:53] [Server thread/INFO]: Stopping server
+[15:00:53] [Server thread/INFO]: Saving players
+[15:00:53] [Server thread/INFO]: Saving worlds
+[15:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (The Uncensored Library): All chunks are saved
+[15:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (The Uncensored Library): All chunks are saved
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:54] [Render thread/INFO]: Reloading ResourceManager: Default
+[15:01:00] [Render thread/INFO]: OpenAL initialized.
+[15:01:00] [Render thread/INFO]: Sound engine started
+[15:01:01] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:01:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:01:02] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:01:02] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:01:02] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:02:46] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:02:46] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:46] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:46] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:02:46] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:02:46] [Render thread/INFO]: Reloading ResourceManager: Default
+[15:02:46] [Render thread/INFO]: Loaded 7 recipes
+[15:02:46] [Render thread/INFO]: Loaded 927 advancements
+[15:02:47] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:02:47] [Server thread/INFO]: Starting integrated minecraft server version 1.16.4
+[15:02:47] [Server thread/INFO]: Generating keypair
+[15:02:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:02:47] [Render thread/INFO]: Preparing spawn area: 0%
+[15:02:47] [Server thread/INFO]: Changing view distance to 11, from 10
+[15:02:47] [Render thread/INFO]: Time elapsed: 262 ms
+[15:02:47] [Server thread/INFO]: Osybear[local:E:eff08669] logged in with entity id 87 at (1436.5244523885624, 96.25915584170686, 1189.4542886411436)
+[15:02:47] [Server thread/INFO]: Osybear joined the game
+[15:02:47] [Netty Local Client IO #1/INFO]: Applying server pack C:\Users\Osybear\AppData\Roaming\.minecraft\saves\The Uncensored Library\resources.zip
+[15:02:47] [Server thread/INFO]: Saving and pausing game...
+[15:02:47] [Render thread/INFO]: Reloading ResourceManager: Default, resources.zip
+[15:02:47] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: .DS_Store in C:\Users\Osybear\AppData\Roaming\.minecraft\saves\The Uncensored Library\resources.zip
+[15:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:02:47] [Render thread/INFO]: Loaded 8 advancements
+[15:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:02:48] [Worker-Main-23/WARN]: Unable to load model: 'minecraft:cube' referenced from: minecraft:lectern#facing=north,has_book=true,powered=true: java.io.FileNotFoundException: minecraft:models/cube.json
+[15:02:48] [Worker-Main-23/WARN]: Unable to load model: 'minecraft:block/hanging_lantern' referenced from: minecraft:lantern#hanging=true,waterlogged=true: java.io.FileNotFoundException: minecraft:models/block/hanging_lantern.json
+[15:02:48] [Worker-Main-23/WARN]: Unable to resolve texture reference: #missing in minecraft:block/end_rod
+[15:02:48] [Worker-Main-23/WARN]: Unable to resolve texture reference: #missing in minecraft:item/end_rod
+[15:02:48] [Worker-Main-23/WARN]: Texture minecraft:entity/conduit/open_eye with size 8x8 limits mip level from 4 to 3
+[15:02:48] [Worker-Main-23/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[15:02:49] [Render thread/INFO]: OpenAL initialized.
+[15:02:49] [Render thread/INFO]: Sound engine started
+[15:02:49] [Render thread/INFO]: Created: 512x2048x3 minecraft:textures/atlas/blocks.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[15:02:49] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:02:55] [Render thread/INFO]: Loaded 9 advancements
+[15:02:57] [Server thread/INFO]: Saving and pausing game...
+[15:02:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:02:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:02:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:04:18] [Server thread/INFO]: Saving and pausing game...
+[15:04:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:04:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:04:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:04:27] [Server thread/INFO]: Saving and pausing game...
+[15:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:04:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:04:35] [Server thread/INFO]: Osybear lost connection: Disconnected
+[15:04:35] [Server thread/INFO]: Osybear left the game
+[15:04:35] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:04:35] [Server thread/INFO]: Stopping server
+[15:04:35] [Server thread/INFO]: Saving players
+[15:04:35] [Server thread/INFO]: Saving worlds
+[15:04:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:overworld
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (The Uncensored Library): All chunks are saved
+[15:04:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_nether
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:04:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§f§lThe Uncensored Library]'/minecraft:the_end
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (The Uncensored Library): All chunks are saved
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:04:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:04:36] [Render thread/INFO]: Reloading ResourceManager: Default
+[15:04:37] [Render thread/INFO]: OpenAL initialized.
+[15:04:37] [Render thread/INFO]: Sound engine started
+[15:04:37] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:04:37] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:35:32] [Render thread/INFO]: Stopping!

@@ -1,0 +1,19 @@
+{
+  "name": "2.3.0",
+  "timestamp": "2020-11-11T20:49:33Z",
+  "notes": "Thanks to all the contributors who made this release possible!\n\nHighlights:\n* Add emitter sampling for faster convergence and less emitter noise\n* Add support for player head blocks with custom skins\n* Render the books on lecterns and enchanting tables and make them poseable in the entities panel\n* Fix jello water caused by interaction between water plane and normal water\n* Add biome-based water color\n* Performance and memory usage improvements\n\nFull changelog: https://github.com/chunky-dev/chunky/releases/tag/2.3.0",
+  "libraries": [
+    {
+      "name": "chunky-core-2.3.0.jar",
+      "md5": "72D4434537C162604D041850EE5302B1",
+      "url": "",
+      "size": 1397746
+    },
+    {
+      "name": "commons-math3-3.2.jar",
+      "md5": "AAA32530C0F744813570FF73DB018698",
+      "url": "",
+      "size": 1692782
+    }
+  ]
+}
