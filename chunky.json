@@ -4,5 +4,6 @@
   "plugins": [
     "chunky-denoiser-chunky2.jar"
   ],
-  "lastWorld": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\.minecraft\\saves\\The Uncensored Library"
+  "lastWorld": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\.minecraft\\saves\\The Uncensored Library",
+  "oidnPath": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\oidn-1.2.4.x64.vc14.windows\\bin\\oidnDenoise.exe"
 }
