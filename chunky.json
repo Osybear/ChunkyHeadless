@@ -1,4 +1,8 @@
 {
   "minecraftDir": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\.minecraft",
-  "loadPlayers": true
+  "loadPlayers": true,
+  "plugins": [
+    "chunky-denoiser-chunky2.jar"
+  ],
+  "lastWorld": "C:\\Users\\Osybear\\Desktop\\ChunkyHeadless\\.minecraft\\saves\\The Uncensored Library"
 }

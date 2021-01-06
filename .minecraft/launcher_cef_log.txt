@@ -1,2 +1,0 @@
-[0101/161115.081:INFO:main_context.cpp(107)] CEF initialized successfully.
-
